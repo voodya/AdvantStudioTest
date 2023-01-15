@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f77549824f97f05438f2ed57a42cc497, type: 3}
+  m_Name: CurrentData
+  m_EditorClassIdentifier: 
+  Buisneses:
+  - Template:
+      Name: "\u0411\u0438\u0437\u043D\u0435\u0441 1"
+      Delay: 3
+      BasePrice: 3
+      BaseIncome: 3
+      ImprovementOne:
+        Price: 50
+        Factor: 50
+        Name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 1"
+      ImprovementTwo:
+        Price: 400
+        Factor: 100
+        Name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 2"
+    Level: 13
+    TargetProgress: 0.7135586
+    IsFirstImprovementGetted: 1
+    IsSecondImprovementGetted: 1
+  - Template:
+      Name: "\u0411\u0438\u0437\u043D\u0435\u0441 2"
+      Delay: 6
+      BasePrice: 40
+      BaseIncome: 40
+      ImprovementOne:
+        Price: 1200
+        Factor: 100
+        Name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 1"
+      ImprovementTwo:
+        Price: 4000
+        Factor: 200
+        Name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 2"
+    Level: 4
+    TargetProgress: 0.47921655
+    IsFirstImprovementGetted: 1
+    IsSecondImprovementGetted: 1
+  - Template:
+      Name: "\u0411\u0438\u0437\u043D\u0435\u0441 3"
+      Delay: 10
+      BasePrice: 200
+      BaseIncome: 200
+      ImprovementOne:
+        Price: 6000
+        Factor: 100
+        Name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 1"
+      ImprovementTwo:
+        Price: 20000
+        Factor: 150
+        Name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 2"
+    Level: 3
+    TargetProgress: 0.5088642
+    IsFirstImprovementGetted: 1
+    IsSecondImprovementGetted: 1
+  - Template:
+      Name: "\u0411\u0438\u0437\u043D\u0435\u0441 4"
+      Delay: 17
+      BasePrice: 1000
+      BaseIncome: 1000
+      ImprovementOne:
+        Price: 15000
+        Factor: 100
+        Name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 1"
+      ImprovementTwo:
+        Price: 50000
+        Factor: 200
+        Name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 2"
+    Level: 6
+    TargetProgress: 0.80944765
+    IsFirstImprovementGetted: 1
+    IsSecondImprovementGetted: 1
+  - Template:
+      Name: "\u0411\u0438\u0437\u043D\u0435\u0441 5"
+      Delay: 30
+      BasePrice: 5000
+      BaseIncome: 5000
+      ImprovementOne:
+        Price: 100000
+        Factor: 200
+        Name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 1"
+      ImprovementTwo:
+        Price: 500000
+        Factor: 400
+        Name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 2"
+    Level: 5
+    TargetProgress: 0.52699566
+    IsFirstImprovementGetted: 1
+    IsSecondImprovementGetted: 1
+  Balance: 441778
