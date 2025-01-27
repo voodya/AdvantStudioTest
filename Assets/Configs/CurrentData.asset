@@ -26,8 +26,8 @@ MonoBehaviour:
         Price: 400
         Factor: 100
         Name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 2"
-    Level: 13
-    TargetProgress: 0.7135586
+    Level: 128
+    TargetProgress: 0.6824497
     IsFirstImprovementGetted: 1
     IsSecondImprovementGetted: 1
   - Template:
@@ -43,8 +43,8 @@ MonoBehaviour:
         Price: 4000
         Factor: 200
         Name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 2"
-    Level: 4
-    TargetProgress: 0.47921655
+    Level: 22
+    TargetProgress: 0.514854
     IsFirstImprovementGetted: 1
     IsSecondImprovementGetted: 1
   - Template:
@@ -60,8 +60,8 @@ MonoBehaviour:
         Price: 20000
         Factor: 150
         Name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 2"
-    Level: 3
-    TargetProgress: 0.5088642
+    Level: 20
+    TargetProgress: 0.33367527
     IsFirstImprovementGetted: 1
     IsSecondImprovementGetted: 1
   - Template:
@@ -77,8 +77,8 @@ MonoBehaviour:
         Price: 50000
         Factor: 200
         Name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 2"
-    Level: 6
-    TargetProgress: 0.80944765
+    Level: 146
+    TargetProgress: 0.031856548
     IsFirstImprovementGetted: 1
     IsSecondImprovementGetted: 1
   - Template:
@@ -94,8 +94,8 @@ MonoBehaviour:
         Price: 500000
         Factor: 400
         Name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 2"
-    Level: 5
-    TargetProgress: 0.52699566
+    Level: 527
+    TargetProgress: 0.84698343
     IsFirstImprovementGetted: 1
     IsSecondImprovementGetted: 1
-  Balance: 441778
+  Balance: 9.992936e+11
